@@ -1,2 +1,10 @@
 ﻿  main.cpp
-  oopintro.vcxproj -> C:\Users\vpaul\source\repos\oopintro\Debug\oopintro.exe
+C:\Users\vpaul\source\repos\oopintro\main.cpp(108,40): error C2248: 'lifeform::species': cannot access private member declared in class 'lifeform'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(16): message : see declaration of 'lifeform::species'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(14): message : see declaration of 'lifeform'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(108,73): error C2248: 'lifeform::rank': cannot access private member declared in class 'lifeform'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(16): message : see declaration of 'lifeform::rank'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(14): message : see declaration of 'lifeform'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(109,28): error C2248: 'lifeform::shield': cannot access private member declared in class 'lifeform'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(18): message : see declaration of 'lifeform::shield'
+C:\Users\vpaul\source\repos\oopintro\main.cpp(14): message : see declaration of 'lifeform'
